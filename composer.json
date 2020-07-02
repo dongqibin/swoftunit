@@ -1,5 +1,6 @@
 {
   "name": "dongqibin/swoftunit",
+  "version": "v1.0.0",
   "type": "library",
   "keywords": [
     "php",
