@@ -2,7 +2,7 @@
 
 #### 安装
 ```cmd
-composer require jdmmswoft/phpunit
+composer require dongqibin/swoftunit
 ```
 
 #### 使用
