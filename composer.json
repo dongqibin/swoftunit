@@ -1,5 +1,5 @@
 {
-  "name": "jdmmswoft/phpunit",
+  "name": "dongqibin/swoftunit",
   "type": "library",
   "keywords": [
     "php",
@@ -8,11 +8,6 @@
   ],
   "description": "the phpunit for swoft",
   "license": "Apache-2.0",
-  "autoload": {
-    "psr-4": {
-      "Jdmm\\Phpunit\\": "src/"
-    }
-  },
   "bin":[
     "bin/swoftunit"
   ]
